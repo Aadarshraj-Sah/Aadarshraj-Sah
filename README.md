@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadarshraj Sah</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Instagram App](https://github.com/Aadarshraj-Sah/My_Insta_App)
+- 🔭 I’m currently working on [Stock Science Web App](https://github.com/Aadarshraj-Sah/StockScience-Web-App)
 
 - 🌱 I’m currently learning **Flutter.**
 
